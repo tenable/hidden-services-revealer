@@ -5,12 +5,6 @@ can identify services that are indirectly deployed by their actions. This can be
 present security risks which should be managed and controlled.
 
 ## Installation
-### Quick Install
-The simplest way to install the package is to use pip:
-```bash
-pip install jenganizer
-```
-
 ### Development Install
 To install the package in development mode, clone the repository and install the package using pip:
 ```bash

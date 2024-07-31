@@ -15,7 +15,7 @@ pip install jenganizer
 To install the package in development mode, clone the repository and install the package using pip:
 ```bash
 git clone
-cd jenganizer
+cd hidden-services-revealer
 pip install -e .
 ```
 

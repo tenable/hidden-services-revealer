@@ -1,0 +1,5 @@
+setuptools~=68.2.0
+boto3~=1.34.86
+click~=8.1.7
+colorlog~=6.8.2
+jenganizer~=0.1

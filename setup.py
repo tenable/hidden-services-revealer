@@ -7,11 +7,12 @@ setup(
     install_requires=[
         "boto3",
         "click",
-        "tabulate",
+        "click-log",
+        "colorlog"
     ],
     entry_points={
         "console_scripts": [
-            "jenganizer = jenganizer:cli",
+            "jenganizer = jenganizer.jenganizer:cli",
         ],
     },
 )

@@ -5,12 +5,10 @@ can identify services that are indirectly deployed by their actions. This can be
 present security risks which should be managed and controlled.
 
 ## Installation
-### Development Install
-To install the package in development mode, clone the repository and install the package using pip:
+### Install
+You can install the package from pypi.org
 ```bash
-git clone
-cd hidden-services-revealer
-pip install -e .
+pip install jenganizer
 ```
 
 ## Usage

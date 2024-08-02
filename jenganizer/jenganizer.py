@@ -110,7 +110,7 @@ def filter_triggered_events(
     time_end: datetime,
     depth: int = 0,
     output_file: str = "triggered_events.json",
-    event_sources: list = (),
+    event_sources: list = [],
 ):
     # Create a session using your AWS credentials
     session = boto3.Session(profile_name=profile_name, region_name=region_name)
